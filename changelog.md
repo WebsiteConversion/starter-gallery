@@ -1,6 +1,11 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  JK (Captain) & RM (Mate)  
+
+ChangeLogs (Latest First)
+2018/01/28
+- Adding team member names into the changelog
+
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
