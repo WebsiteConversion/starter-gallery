@@ -3,6 +3,15 @@
 Team membership:  JK (Captain) & RM (Mate)  
 
 ChangeLogs (Latest First)
+
+2018/01/28
+rost
+-Basic to good conversion
+-implemented database and attached images folder to it
+-made a template for table cell that is dynamically pulling content from db
+-implemented new() and all() methods
+
+
 2018/01/28
 - modified all .php files within the view to only contain the core content specific to that view
 - modified the core controller to show the same page title for all views
