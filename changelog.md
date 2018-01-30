@@ -3,6 +3,8 @@
 Team membership:  JK (Captain) & RM (Mate)  
 
 ChangeLogs (Latest First)
+2018/01/30
+random commit
 
 2018/01/28
 rost
